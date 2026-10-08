@@ -1,0 +1,9 @@
+# 强制将所有 .h 头文件识别为 C++
+*.h linguist-language=C++
+
+# 如果你使用 Qt，强制将 .pro 文件识别为 C++
+*.pro linguist-language=C++
+
+# 忽略生成的文件或第三方库，不让它们干扰语言统计
+# 例如，忽略 build 目录下的所有文件
+build/* linguist-detectable=false
