@@ -3,7 +3,7 @@
 
 ## 软件界面 (UI)
 <p align="center">
-  <img src="./image/AutoSwipe.png" width="80%" alt="AutoSwipe">
+  <img src="./image/AutoSwipe.png" width="60%" alt="AutoSwipe">
 </p>
 
 ## 特点
